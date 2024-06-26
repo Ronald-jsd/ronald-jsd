@@ -4,9 +4,8 @@
 <div align=center>
     <img src="https://i.ibb.co/MG5Lcqm/My-banner-Ronald.gif">    
 </div>
-
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h2>About me:</h2>
 <ul>  
 <li> - 🔭 <b> Actualmente estoy estudiando en computación e informatica. </li>
@@ -21,8 +20,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br> <br>
 <p align="center">
-    <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=Ronald-jsd&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
-    /> 
   <br> <br>
     <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald-jsd&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
 </p>
+
+
