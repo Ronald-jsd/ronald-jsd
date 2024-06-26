@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Ronald-jsd/Ronald-jsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/ronald-santiago-jaime-duran/">Ronald-jsd</a> 👋😊</h1>
 
-Here are some ideas to get you started:
+<div align=center>
+    <img src="https://i.ibb.co/MG5Lcqm/My-banner-Ronald.gif">    
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2>About me:</h2>
+<ul>  
+<li> - 🔭 <b> Actualmente estoy estudiando en computación e informatica. </li>
+<li> - 💙 <b> Con gran interes en la tecnologia. </li>
+<li> - 🌱 <b> Presento conocimientos intermedios-avanzados en Excel</li>
+<li> - 🌱 <b> Estoy aprendiendo Java, Javascript, HTML, CSS... </li>
+<li> - 👯 <b> Busco colaborar en proyectos.</li>
+<li> - 💬 <b> Preguntame sobre mi cv.</li>
+<li> - 📫 <b> Contactame: Mediante mi Linkedin.</li>
+<li> - ⚡ <b> Hobbies: Me gusta realizar ejercicio, ver peliculas, leer libros, o ver peliculas.</li>
+</ul>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br> <br>
+<p align="center">
+    <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=Ronald-jsd&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
+    /> 
+  <br> <br>
+    <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald-jsd&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
+</p>
