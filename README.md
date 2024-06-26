@@ -8,14 +8,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2>About me:</h2>
 <ul>  
-<li> - 🔭 <b> Actualmente estoy estudiando en computación e informatica. </li>
+<li> - 🔭 <b> Actualmente estoy estudiando en la carrera de computación e informatica. </li>
 <li> - 💙 <b> Con gran interes en la tecnologia. </li>
 <li> - 🌱 <b> Presento conocimientos intermedios-avanzados en Excel</li>
 <li> - 🌱 <b> Estoy aprendiendo Java, Javascript, HTML, CSS... </li>
 <li> - 👯 <b> Busco colaborar en proyectos.</li>
 <li> - 💬 <b> Preguntame sobre mi cv.</li>
 <li> - 📫 <b> Contactame: Mediante mi Linkedin.</li>
-<li> - ⚡ <b> Hobbies: Me gusta realizar ejercicio, ver peliculas, leer libros, o ver peliculas.</li>
+<li> - ⚡ <b> Hobbies: Me gusta realizar ejercicio, leer libros, o ver peliculas.</li>
 </ul>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br> <br>
