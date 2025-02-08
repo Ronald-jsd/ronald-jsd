@@ -13,9 +13,8 @@
 <li> - 🔭 <b> Actualmente estoy estudiando en la carrera de computación e informatica. </li>
 <li> - 💙 <b> Con gran interes en la tecnologia. </li>
 <li> - 🌱 <b> Presento conocimientos intermedios-avanzados en Excel</li>
-<li> - 🌱 <b> Estoy aprendiendo Java, Javascript, HTML, CSS... </li>
+<li> - 🌱 <b> Conocimientos en Java, spring boot, .NET, Javascript, HTML, CSS... </li>
 <li> - 👯 <b> Busco colaborar en proyectos.</li>
-<li> - 💬 <b> Preguntame sobre mi cv.</li>
 <li> - 📫 <b> Contactame: Mediante mi Linkedin.</li>
 <li> - ⚡ <b> Hobbies: Me gusta realizar ejercicio, leer libros, o ver peliculas.</li>
 </ul>
