@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Welcome to My GitHub Profile! 👋🚀</h1>
+<h1 align="center">🌟 Welcome to My Profile! 👋🚀</h1>
 
 <div align="center">
         <img src="https://github.com/user-attachments/assets/6bab7f1a-f3e9-437a-96af-86a44339d0d8" alt="my-Banner-ronald-jsd">
@@ -20,17 +20,17 @@
 
 ### 💻 Lenguajes de Programación
 | Java | JavaScript | C# |
-|------|-----------|----|
+|------|------------|----|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"> |
 
 ### 🚀 Frameworks y Librerías
 | Spring Boot | .NET | Bootstrap |
-|------------|------|----------|
+|-------------|------|-----------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"> |
 
 ### 🗄️ Bases de Datos
 | MySQL | SQL Server |
-|-------|-----------|
+|-------|------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40"> |
 
 ### 🛠️ Herramientas Colaborativas
@@ -40,7 +40,7 @@
 
 ### 🛠️ Otros
 | Postman | Swagger | Visual Studio | VS Code | Intellij | Eclipse |
-|--------|---------|---------------|---------|---------|---------|
+|---------|---------|---------------|---------|----------|---------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"  height="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height="40" />
 
 
@@ -54,7 +54,8 @@
 
 ## 🎉 Hobbies
 - 🏕️ Me gusta hacer ejercicio 🏋️‍♂️, leer libros 📚 y ver películas 🎬.
-- ☕ Java es el lenguaje de programación que más admiro.
+- 🎬 Ver series 🎬.
+- ☕ Me gusta practicar ejercicios con Java.
 
 ---
 
