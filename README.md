@@ -38,8 +38,6 @@
 |-----|--------|--------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height="40" />
 
- |
-
 ### 🛠️ Otros
 | Postman | Swagger | Visual Studio | VS Code | Intellij | Eclipse |
 |--------|---------|---------------|---------|---------|---------|
