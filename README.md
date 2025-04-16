@@ -11,7 +11,7 @@
 - 🔭 **Developer Backend en formación.**
 - 💙 **Apasionado por la tecnología** y el desarrollo de software.
 - 🌱 Conocimientos en **Java, C#, .NET, JavaScript, HTML, CSS3, MySQL, SQL, Spring Boot, Bootstrap, GitHub, Postman y Swagger.**
-- 📊 **Experiencia intermedia-avanzada en Excel** y análisis de datos.
+- 📊 **Experiencia intermedia-avanzada en Excel**.
 - 📚 **He completado el programa Backend de ONE Next Oracle.**
 
 ---
